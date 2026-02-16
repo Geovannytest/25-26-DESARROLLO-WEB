@@ -1,1 +1,11 @@
 venv/
+*.pyc
+_pycache_/
+.DS_Store
+.idea/
+.env
+.env.*
+*.log
+data/
+output/
+.ipynb_checkpoints/
